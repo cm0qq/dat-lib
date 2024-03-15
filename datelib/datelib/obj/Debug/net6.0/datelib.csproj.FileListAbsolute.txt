@@ -1,0 +1,11 @@
+D:\c#\datelib\datelib\bin\Debug\net6.0\datelib.deps.json
+D:\c#\datelib\datelib\bin\Debug\net6.0\datelib.dll
+D:\c#\datelib\datelib\bin\Debug\net6.0\datelib.pdb
+D:\c#\datelib\datelib\obj\Debug\net6.0\datelib.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\datelib\datelib\obj\Debug\net6.0\datelib.AssemblyInfoInputs.cache
+D:\c#\datelib\datelib\obj\Debug\net6.0\datelib.AssemblyInfo.cs
+D:\c#\datelib\datelib\obj\Debug\net6.0\datelib.csproj.CoreCompileInputs.cache
+D:\c#\datelib\datelib\obj\Debug\net6.0\datelib.dll
+D:\c#\datelib\datelib\obj\Debug\net6.0\refint\datelib.dll
+D:\c#\datelib\datelib\obj\Debug\net6.0\datelib.pdb
+D:\c#\datelib\datelib\obj\Debug\net6.0\ref\datelib.dll

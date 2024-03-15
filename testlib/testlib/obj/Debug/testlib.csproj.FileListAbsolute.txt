@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\source\repos\testlib\testlib\bin\Debug\testlib.exe.config
+C:\Users\Дмитрий\source\repos\testlib\testlib\bin\Debug\testlib.exe
+C:\Users\Дмитрий\source\repos\testlib\testlib\bin\Debug\testlib.pdb
+C:\Users\Дмитрий\source\repos\testlib\testlib\obj\Debug\testlib.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\testlib\testlib\obj\Debug\testlib.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\source\repos\testlib\testlib\obj\Debug\testlib.Form1.resources
+C:\Users\Дмитрий\source\repos\testlib\testlib\obj\Debug\testlib.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\testlib\testlib\obj\Debug\testlib.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\testlib\testlib\obj\Debug\testlib.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\testlib\testlib\obj\Debug\testlib.exe
+C:\Users\Дмитрий\source\repos\testlib\testlib\obj\Debug\testlib.pdb
